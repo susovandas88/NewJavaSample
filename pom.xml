@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.buildpacks.example</groupId>
-	<artifactId>sample</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>Sample-Jenkins</artifactId>
+	<version>1.0-SNAPSHOT</version>
 	<name>sample</name>
 	<description>Sample Java Application</description>
 
